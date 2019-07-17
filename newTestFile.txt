@@ -1,0 +1,37 @@
+git init
+git staus
+git status
+git
+cls
+git status
+git add .
+git status
+git commit -m" files done"
+cls
+git push
+git config --global user.email "mahesh.yadav@wipro.com"
+git config --global user.name "techninja90"
+git push
+git config --list
+git commit -m"files added"
+git commit -m"files added" -a
+git push origin master
+fit remote -v
+git remote -v
+git remote add origin https://github.com/techninja90/firstRepo.git
+git push -u origin master
+git remote -v
+git status
+git add .
+
+
+
+https://confluence.atlassian.com/bitbucketserver/importing-code-from-an-existing-project-776640909.html?_ga=2.114263047.1228131723.1563376782-1415745807.1563376782#Importingcodefromanexistingproject-Importcodeusingthewebinterface
+
+
+git commit -m"new file added"
+git push origin master
+history
+help
+doskey /history
+doskey /history >>newTestFile.txt
